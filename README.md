@@ -2,5 +2,5 @@
 List resources for Laravel
 
 
-#Packages
+# Packages
 Laravel Messenger : Display alerts for users -> https://github.com/GeneaLabs/laravel-messenger
