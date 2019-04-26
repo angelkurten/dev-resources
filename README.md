@@ -10,4 +10,6 @@ Laravel Subscriptions -> https://github.com/rinvex/laravel-subscriptions
 
 # Articles or Documents
 Clean Architecture : https://github.com/edittler/clean-architecture  
-Clean Code Book(Spanish) : https://drive.google.com/file/d/0B_rRtttpELcPSVZsVmtBTGQ4eEE/view
+Clean Code Book(Spanish) : https://drive.google.com/file/d/0B_rRtttpELcPSVZsVmtBTGQ4eEE/view  
+Clean Architecture(Book) : http://putregai.com/sbooks/clean_arch.pdf  
+Clean Code Book(English) : https://www.investigatii.md/uploads/resurse/Clean_Code.pdf
