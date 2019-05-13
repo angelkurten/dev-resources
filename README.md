@@ -7,7 +7,8 @@ Laravel Messenger : Display alerts for users -> https://github.com/GeneaLabs/lar
 Laravel Embed : Embed and Parse Youtube/Vimeo -> https://github.com/KaneCohen/embed    
 Transform PHP Vars to JavaScript -> https://github.com/laracasts/PHP-Vars-To-Js-Transformer  
 Laravel Subscriptions -> https://github.com/rinvex/laravel-subscriptions   
-Laravel Tenancy -> https://github.com/tenancy/tenancy
+Laravel Tenancy -> https://github.com/tenancy/tenancy  
+Grafite Builder-> https://github.com/GrafiteInc/Builder  
 
 # Articles or Documents
 Clean Architecture : https://github.com/edittler/clean-architecture  
