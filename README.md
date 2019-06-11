@@ -14,5 +14,6 @@ Grafite Builder-> https://github.com/GrafiteInc/Builder
 Clean Architecture : https://github.com/edittler/clean-architecture  
 Clean Code Book(Spanish) : https://drive.google.com/file/d/0B_rRtttpELcPSVZsVmtBTGQ4eEE/view  
 Clean Architecture(Book) : http://putregai.com/sbooks/clean_arch.pdf  
-Clean Code Book(English) : https://www.investigatii.md/uploads/resurse/Clean_Code.pdf
-Por que utilizo Clean Architecure? http://xurxodev.com/por-que-utilizo-clean-architecture-en-mis-proyectos/
+Clean Code Book(English) : https://www.investigatii.md/uploads/resurse/Clean_Code.pdf  
+Por que utilizo Clean Architecure? http://xurxodev.com/por-que-utilizo-clean-architecture-en-mis-proyectos/   
+Refactoring to actions https://freek.dev/1371-refactoring-to-actions  
